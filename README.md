@@ -6,7 +6,7 @@
       <h3>About me:</h3>
       <p>
         I am Bharath Chavala, a dedicated Full Stack Developer with extensive
-        experience in both backend and frontend technologies. Currently, I am
+        experience of 4+ in both backend and frontend technologies. Currently, I am
         working for clients at Amex Technologies, and I have previously
         contributed to projects at Dell and Sonata in India.
         <br />
