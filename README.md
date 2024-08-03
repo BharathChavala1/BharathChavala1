@@ -116,7 +116,7 @@
       />
     </div>
     <br />
-    <div style="display: flex">
+    <div style="display: flex"; border-gap:10px>
       <img
         style="border-radius: 100px"
         src="./Skills and Technologies/images.jpeg"
