@@ -101,7 +101,6 @@
         height="50px"
         width="50px"
       />
-
       <img
         style="border-radius: 100px"
         src="./Skills and Technologies/images (1).png"
