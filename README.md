@@ -53,14 +53,14 @@
         alt=""
         height="50px"
         width="50px"
-      />
+      /> </div>
       <img
         class="skills"
         src="./Skills and Technologies/1_MF5V_dkybUTcfzwHFh0VSw.jpg"
         alt=""
         height="50px"
         width="50px"
-      />
+      /> </div>
       <img
         class="skills"
         src="./Skills and Technologies/874086.png"
