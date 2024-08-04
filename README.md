@@ -1,6 +1,6 @@
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="./docs/style.css" />
+    <link rel="stylesheet" href="https://github.com/BharathChavala1/BharathChavala1/blob/main/docs/style.css" />
   </head>
   <body>
     <div>
