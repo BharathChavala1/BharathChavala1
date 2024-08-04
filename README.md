@@ -1,13 +1,15 @@
 <html lang="en">
-  <head></head>
+  <head>
+    <link rel="stylesheet" href="./docs/style.css" />
+  </head>
   <body>
     <div>
       <h1>Hi there, Welcome to my GitHub 👋</h1>
       <h3>About me:</h3>
       <p>
         I am Bharath Chavala, a dedicated Full Stack Developer with extensive
-        experience of 4+ in both backend and frontend technologies. Currently, I am
-        working for clients at Amex Technologies, and I have previously
+        experience of 4+ in both backend and frontend technologies. Currently, I
+        am working for clients at Amex Technologies, and I have previously
         contributed to projects at Dell and Sonata in India.
         <br />
         <br />Throughout my career, I have honed my skills in various
@@ -44,50 +46,51 @@
     <div>
       <h2>Skills and Technologies:</h2>
     </div>
-    <div style="display: flex">
+    <div class="divImg" style="display: flex">
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/1688794846091.png"
         alt=""
         height="50px"
         width="50px"
       />
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/1_MF5V_dkybUTcfzwHFh0VSw.jpg"
         alt=""
         height="50px"
         width="50px"
       />
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/874086.png"
         alt=""
         height="50px"
         width="50px"
       />
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/apple-touch-icon.png"
         alt=""
         height="50px"
         width="50px"
       />
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/Docker-Logo-2013.png"
         alt=""
         height="50px"
         width="50px"
       />
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/GitHub-logo.png"
         alt=""
         height="50px"
         width="50px"
       />
       <img
+        class="skills"
         style="border-radius: 100px"
         src="./Skills and Technologies/Grafana_icon.svg.png"
         alt=""
@@ -95,19 +98,20 @@
         width="50px"
       />
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/HTML5_logo_and_wordmark.svg.png"
         alt=""
         height="50px"
         width="50px"
       />
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/images (1).png"
         alt=""
         height="50px"
         width="50px"
       /><img
+        class="skills"
         style="border-radius: 100px"
         src="./Skills and Technologies/images (2).png"
         alt=""
@@ -116,61 +120,61 @@
       />
     </div>
     <br />
-    <div style="display: flex"; border-gap:10px>
+    <div class="divImg" style="display: flex">
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/images.jpeg"
         alt=""
         height="50px"
         width="50px"
       /><img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/images.png"
         alt=""
         height="50px"
         width="50px"
       /><img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/IntelliJ_IDEA_Icon.svg.png"
         alt=""
         height="50px"
         width="50px"
       />
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/Java_programming_language_logo.svg"
         alt=""
         height="50px"
         width="50px"
       /><img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/jenkins8460.jpg"
         alt=""
         height="50px"
         width="50px"
       /><img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/MongoDB-Emblem.jpg"
         alt=""
         height="50px"
         width="50px"
       />
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/postgresql-plain-wordmark-icon-2048x2042-up54u54l.png"
         alt=""
         height="50px"
         width="50px"
       />
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/swagger-icon-1024x1024-09037v1r.png"
         alt=""
         height="50px"
         width="50px"
       />
       <img
-        style="border-radius: 100px"
+        class="skills"
         src="./Skills and Technologies/zipkin_vertical_grey_gb.png"
         alt=""
         height="50px"
@@ -180,11 +184,13 @@
     <div>
       <h2>Contact:</h2>
       <ul>
-        <li>Email: bharath.chavala123@gmail.com</li>
+        <li>
+          <span style="font-weight: bold">Email:</span>
+          bharath.chavala123@gmail.com
+        </li>
         <li><a href="">LinkedIn</a></li>
-        <li><a href=""></a>My Portfolio</li>
+        <li><a href="">My Portfolio</a></li>
       </ul>
     </div>
-
   </body>
 </html>
