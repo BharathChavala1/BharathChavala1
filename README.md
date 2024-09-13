@@ -59,6 +59,12 @@
     <img src="./Icons/postgresql-svgrepo-com.svg" alt="PostgreSQL" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
     <img src="./Icons/rabbitmq-icon-svgrepo-com.svg" alt="RabbitMQ" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
     <img src="./Icons/spring-svgrepo-com.svg" alt="Spring" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+   <img src="./Icons/rest-api-1.svg" alt="Spring" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+       <img src="./Icons/JavaScript-Logo.png" alt="Spring" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" alt="Spring" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+
+   
+   
 </p>
     <div>
       <h2>Contact:</h2>
