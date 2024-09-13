@@ -47,7 +47,7 @@
  <p align="center">
     <img src="./Icons/aws-icon-2048x2048-ptyrjxdo.png" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
     <img src="./Icons/css-3-svgrepo-com.svg" alt="CSS3" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
-    <img src="./Icons/github-142-svgrepo-com.svg" alt="GitHub" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="GitHub" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
     <img src="./Icons/graphql-svgrepo-com.svg" alt="GraphQL" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
     <img src="./Icons/html5-01-svgrepo-com.svg" alt="HTML5" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
     <img src="./Icons/intellij-idea-svgrepo-com.svg" alt="IntelliJ IDEA" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
