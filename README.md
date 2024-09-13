@@ -44,31 +44,21 @@
     <div>
       <h2>Skills and Technologies:</h2>
     </div>
-    <p align="center">
-  <img src="./Icons/7b3f465be356e80766179d0213ee5164.jpg" alt="Skill 1" height="50" width="50"/>
-  <img src="./Icons/aws-svgrepo-com.svg"alt="Skill 2" height="50" width="50"/>
-  <img src="./Icons" alt="Skill 3" height="50" width="50"/>
-  <img src="./Icons" alt="Skill 4" height="50" width="50"/>
-  <img src="./Icons" alt="Docker" height="50" width="50"/>
-  <img src="./Icons" alt="GitHub" height="50" width="50"/>
-  <img src="./Icons" alt="Grafana" height="50" width="50"/>
-  <img src="./Icons" alt="HTML5" height="50" width="50"/>
-  <img src="./Icons" alt="Skill 9" height="50" width="50"/>
-  <img src="./Icons" alt="Skill 10" height="50" width="50"/>
-</p>
-
-<p align="center">
-  <img src="./Skills and Technologies/images.jpeg" alt="Skill 11" height="50" width="50"/>
-  <img src="./Skills and Technologies/images.png" alt="Skill 12" height="50" width="50"/>
-  <img src="./Skills and Technologies/IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" height="50" width="50"/>
-  <img src="./Skills and Technologies/Java_programming_language_logo.svg" alt="Java" height="50" width="50"/>
-  <img src="./Skills and Technologies/jenkins8460.jpg" alt="Jenkins" height="50" width="50"/>
-  <img src="./Skills and Technologies/MongoDB-Emblem.jpg" alt="MongoDB" height="50" width="50"/>
-  <img src="./Skills and Technologies/postgresql-plain-wordmark-icon-2048x2042-up54u54l.png" alt="PostgreSQL" height="50" width="50"/>
-  <img src="./Skills and Technologies/swagger-icon-1024x1024-09037v1r.png" alt="Swagger" height="50" width="50"/>
-  <img src="./Skills and Technologies/zipkin_vertical_grey_gb.png" alt="Zipkin" height="50" width="50"/>
- 
-  <img src="./Skills and Technologies/css-3-svgrepo-com.svg" alt="Zipkin" height="50" width="50"/>
+ <p align="center">
+    <img src="./Icons/aws-svgrepo-com.svg" alt="AWS" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/css-3-svgrepo-com.svg" alt="CSS3" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/github-142-svgrepo-com.svg" alt="GitHub" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/graphql-svgrepo-com.svg" alt="GraphQL" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/html5-01-svgrepo-com.svg" alt="HTML5" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/intellij-idea-svgrepo-com.svg" alt="IntelliJ IDEA" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/jenkins-svgrepo-com.svg" alt="Jenkins" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/kafka-icon-svgrepo-com.svg" alt="Kafka" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/kubernetes-svgrepo-com.svg" alt="Kubernetes" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/mongodb-svgrepo-com.svg" alt="MongoDB" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/mysql-logo-svgrepo-com.svg" alt="MySQL" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/postgresql-svgrepo-com.svg" alt="PostgreSQL" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/rabbitmq-icon-svgrepo-com.svg" alt="RabbitMQ" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
+    <img src="./Icons/spring-svgrepo-com.svg" alt="Spring" height="50" width="50" style="margin: 10px; border-radius: 8px;" />
 </p>
     <div>
       <h2>Contact:</h2>
