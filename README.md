@@ -45,16 +45,16 @@
       <h2>Skills and Technologies:</h2>
     </div>
     <p align="center">
-  <img src="./Skills and Technologies/1688794846091.png" alt="Skill 1" height="50" width="50"/>
-  <img src="./Skills and Technologies/1_MF5V_dkybUTcfzwHFh0VSw.jpg" alt="Skill 2" height="50" width="50"/>
-  <img src="./Skills and Technologies/874086.png" alt="Skill 3" height="50" width="50"/>
-  <img src="./Skills and Technologies/apple-touch-icon.png" alt="Skill 4" height="50" width="50"/>
-  <img src="./Skills and Technologies/Docker-Logo-2013.png" alt="Docker" height="50" width="50"/>
-  <img src="./Skills and Technologies/GitHub-logo.png" alt="GitHub" height="50" width="50"/>
-  <img src="./Skills and Technologies/Grafana_icon.svg.png" alt="Grafana" height="50" width="50"/>
-  <img src="./Skills and Technologies/HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="50" width="50"/>
-  <img src="./Skills and Technologies/images (1).png" alt="Skill 9" height="50" width="50"/>
-  <img src="./Skills and Technologies/images (2).png" alt="Skill 10" height="50" width="50"/>
+  <img src="./Icons/7b3f465be356e80766179d0213ee5164.jpg" alt="Skill 1" height="50" width="50"/>
+  <img src="./Icons/aws-svgrepo-com.svg"alt="Skill 2" height="50" width="50"/>
+  <img src="./Icons" alt="Skill 3" height="50" width="50"/>
+  <img src="./Icons" alt="Skill 4" height="50" width="50"/>
+  <img src="./Icons" alt="Docker" height="50" width="50"/>
+  <img src="./Icons" alt="GitHub" height="50" width="50"/>
+  <img src="./Icons" alt="Grafana" height="50" width="50"/>
+  <img src="./Icons" alt="HTML5" height="50" width="50"/>
+  <img src="./Icons" alt="Skill 9" height="50" width="50"/>
+  <img src="./Icons" alt="Skill 10" height="50" width="50"/>
 </p>
 
 <p align="center">
