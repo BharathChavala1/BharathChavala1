@@ -73,8 +73,8 @@
           <span style="font-weight: bold">Email:</span>
           bharath.chavala123@gmail.com
         </li>
-        <li><a href="">LinkedIn</a></li>
-        <li><a href="">My Portfolio</a></li>
+        <li><a href="https://www.linkedin.com/in/bharathchavala/">LinkedIn</a></li>
+        <li><a href="https://bharathchavala1.github.io/myPortfolio/">My Portfolio</a></li>
       </ul>
     </div>
   </body>
